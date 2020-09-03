@@ -664,7 +664,6 @@ PRODUCT_PACKAGES += \
     libsehbluetooth_audio_session \
     libsemnativecarrierfeature \
     libsensorlistener \
-    libsensorndkbridge \
     libsensorslog \
     libsns_device_mode_stub \
     libsns_fastRPC_util \
