@@ -24393,7 +24393,7 @@ cc_prebuilt_library_shared {
                 "libkeymaster4support",
                 "libkeymaster4_1support",
                 "libhidlbase",
-                "libcrypto",
+                "libcrypto-v33",
                 "libQSEEComAPI",
                 "libc++",
                 "libc",
@@ -24802,7 +24802,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libkeymaster_messages",
-                "libcrypto",
+                "libcrypto-v33",
                 "liblog",
                 "libcutils",
                 "libutils",
