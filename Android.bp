@@ -24039,7 +24039,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libQSEEComAPI",
                 "liblog",
-                "libcrypto",
+                "libcrypto-v33",
                 "libc++",
                 "libc",
                 "libm",
