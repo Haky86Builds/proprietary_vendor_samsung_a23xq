@@ -26970,6 +26970,27 @@ cc_prebuilt_binary {
 }
 
 install_symlink {
+    name: "vendor_lib_libEGL_adreno_so",
+    soc_specific: true,
+    installed_location: "lib/libEGL_adreno.so",
+    symlink_target: "/vendor/lib/egl/libEGL_adreno.so",
+}
+
+install_symlink {
+    name: "vendor_lib_libGLESv2_adreno_so",
+    soc_specific: true,
+    installed_location: "lib/libGLESv2_adreno.so",
+    symlink_target: "/vendor/lib/egl/libGLESv2_adreno.so",
+}
+
+install_symlink {
+    name: "vendor_lib_libq3dtools_adreno_so",
+    soc_specific: true,
+    installed_location: "lib/libq3dtools_adreno.so",
+    symlink_target: "/vendor/lib/egl/libq3dtools_adreno.so",
+}
+
+install_symlink {
     name: "vendor_lib64_rfsa_adsp_libsns_device_mode_skel_so",
     soc_specific: true,
     installed_location: "lib64/rfsa/adsp/libsns_device_mode_skel.so",
@@ -26981,4 +27002,25 @@ install_symlink {
     soc_specific: true,
     installed_location: "lib64/rfsa/adsp/libsns_low_lat_stream_skel.so",
     symlink_target: "/vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so",
+}
+
+install_symlink {
+    name: "vendor_lib64_libEGL_adreno_so",
+    soc_specific: true,
+    installed_location: "lib64/libEGL_adreno.so",
+    symlink_target: "/vendor/lib64/egl/libEGL_adreno.so",
+}
+
+install_symlink {
+    name: "vendor_lib64_libGLESv2_adreno_so",
+    soc_specific: true,
+    installed_location: "lib64/libGLESv2_adreno.so",
+    symlink_target: "/vendor/lib64/egl/libGLESv2_adreno.so",
+}
+
+install_symlink {
+    name: "vendor_lib64_libq3dtools_adreno_so",
+    soc_specific: true,
+    installed_location: "lib64/libq3dtools_adreno.so",
+    symlink_target: "/vendor/lib64/egl/libq3dtools_adreno.so",
 }
