@@ -7,7 +7,7 @@
         <interface>
             <name>IComponentStore</name>
             <instance>default</instance>
-            <instance>default0</instance>
+            <instance>software</instance>
         </interface>
    </hal>
 </manifest>
