@@ -18228,6 +18228,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/libscaler_hw.unifunc.so",
             ],
             shared_libs: [
+                "libui_shim",
                 "libcamera_metadata",
                 "libcutils",
                 "libhardware",
@@ -18247,6 +18248,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libscaler_hw.unifunc.so",
             ],
             shared_libs: [
+                "libui_shim",
                 "libcamera_metadata",
                 "libcutils",
                 "libhardware",
@@ -21267,6 +21269,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/unihal_main@2.15.so",
             ],
             shared_libs: [
+                "libui_shim",
                 "libutils",
                 "libcutils",
                 "libcamera_metadata",
@@ -21297,6 +21300,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/unihal_main@2.15.so",
             ],
             shared_libs: [
+                "libui_shim",
                 "libutils",
                 "libcutils",
                 "libcamera_metadata",
