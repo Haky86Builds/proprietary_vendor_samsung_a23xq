@@ -283,23 +283,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a23xq/proprietary/vendor/gpu/kbc/unified_kbcs_32.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_32.bin \
     vendor/samsung/a23xq/proprietary/vendor/gpu/kbc/unified_kbcs_64.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_64.bin \
     vendor/samsung/a23xq/proprietary/vendor/gpu/kbc/unified_ksqs.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_ksqs.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.0_hynix_hi5021.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.0_hynix_hi5021.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.0_hynix_hi5021_rev01.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.0_hynix_hi5021_rev01.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.0_lsi_s5kjn1.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.0_lsi_s5kjn1.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.1_0_lsi_gc08a3.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.1_0_lsi_gc08a3.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.1_1_lsi_sr846d.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.1_1_lsi_sr846d.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.2_lsi_gc5035.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.2_lsi_gc5035.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.3_lsi_gc02m1.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.3_lsi_gc02m1.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.4_lsi_gc02m1_macro.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.4_lsi_gc02m1_macro.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.5_0_lsi_gc08a3_full.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.5_0_lsi_gc08a3_full.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.sensormodule.5_1_lsi_sr846d_full.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.sensormodule.5_1_lsi_sr846d_full.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.tuned.hynix_hi5021.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.tuned.hynix_hi5021.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.tuned.lsi_gc02m1.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.tuned.lsi_gc02m1.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.tuned.lsi_gc02m1_macro.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.tuned.lsi_gc02m1_macro.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.tuned.lsi_gc08a3.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.tuned.lsi_gc08a3.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.tuned.lsi_gc5035.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.tuned.lsi_gc5035.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.tuned.lsi_s5kjn1.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.tuned.lsi_s5kjn1.bin \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/com.samsung.tuned.lsi_sr846d.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.samsung.tuned.lsi_sr846d.bin \
     vendor/samsung/a23xq/proprietary/vendor/lib64/camera/caldata/0_dw9809_s5kjn1_SEC_Awb_before_convert.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/caldata/0_dw9809_s5kjn1_SEC_Awb_before_convert.bin \
     vendor/samsung/a23xq/proprietary/vendor/lib64/camera/caldata/0_dw9809_s5kjn1_SEC_Lsc_before_convert.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/caldata/0_dw9809_s5kjn1_SEC_Lsc_before_convert.bin \
     vendor/samsung/a23xq/proprietary/vendor/lib64/camera/caldata/0_p24c128e_hi5021_SEC_Awb_before_convert.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/caldata/0_p24c128e_hi5021_SEC_Awb_before_convert.bin \

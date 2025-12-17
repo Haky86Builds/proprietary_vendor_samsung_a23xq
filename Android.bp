@@ -27028,3 +27028,105 @@ install_symlink {
     installed_location: "lib64/libq3dtools_adreno.so",
     symlink_target: "/vendor/lib64/egl/libq3dtools_adreno.so",
 }
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.0_hynix_hi5021",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.0_hynix_hi5021_rev01",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.0_lsi_s5kjn1",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.1_0_lsi_gc08a3",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.1_1_lsi_sr846d",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.2_lsi_gc5035",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.3_lsi_gc02m1",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.4_lsi_gc02m1_macro",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.5_0_lsi_gc08a3_full",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.sensormodule.5_1_lsi_sr846d_full",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.tuned.hynix_hi5021",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.tuned.lsi_gc02m1",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.tuned.lsi_gc02m1_macro",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.tuned.lsi_gc08a3",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.tuned.lsi_gc5035",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.tuned.lsi_s5kjn1",
+    compile_multilib: "32",
+    soc_specific: true,
+}
+
+cc_library_shared {
+    name: "com.samsung.tuned.lsi_sr846d",
+    compile_multilib: "32",
+    soc_specific: true,
+}
