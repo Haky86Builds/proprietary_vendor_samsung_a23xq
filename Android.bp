@@ -1,0 +1,16 @@
+//
+// Automatically generated file. DO NOT MODIFY
+//
+
+soong_namespace {
+    imports: [
+        "device/samsung/a23xq",
+        "hardware/qcom-caf/sm8350",
+        "hardware/qcom-caf/wlan",
+        "hardware/samsung",
+        "vendor/qcom/opensource/dataservices",
+        "vendor/qcom/opensource/commonsys/display",
+        "vendor/qcom/opensource/commonsys-intf/display",
+        "vendor/qcom/opensource/display",
+    ],
+}
