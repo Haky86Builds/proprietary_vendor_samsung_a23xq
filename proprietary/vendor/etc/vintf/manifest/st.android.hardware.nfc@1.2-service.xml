@@ -1,0 +1,13 @@
+<manifest version="1.0" type="device">
+<!-- NFC -->
+<hal format="hidl">
+    <name>android.hardware.nfc</name>
+    <transport>hwbinder</transport>
+    <fqname>@1.2::INfc/default</fqname>
+</hal>
+<hal format="hidl">
+    <name>vendor.samsung.hardware.nfc</name>
+    <transport>hwbinder</transport>
+    <fqname>@2.0::ISehNfc/default</fqname>
+</hal>
+</manifest>
